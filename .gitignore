@@ -12,6 +12,7 @@
 
 # Unity generated lighting data / baked lightmaps
 /[Aa]ssets/[Ss]cenes/**/[Ll]ighting[Dd]ata.asset
+/[Aa]ssets/[Ss]cenes/**/[Ll]ighting[Dd]ata.asset.meta
 /[Aa]ssets/[Ss]cenes/**/[Ll]ightmap-*
 
 # MemoryCaptures can get excessive in size.
